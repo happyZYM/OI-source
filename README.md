@@ -18,6 +18,5 @@
 
 p.\* 其它题目，提交地址见第一行注释
 
-## /problems 文件夹：代码对应的题面
-1. 由于Contest-Hunter于2019年8月份连续一个月无法访问，官方替代题库AcWing的题目标号与url之间的对应方式我无法理解，部分CH的题的图片备份丢失。
-## 版权声明：[MIT协议](https://choosealicense.com/licenses/mit/)
+___
+版权声明：[MIT协议](https://choosealicense.com/licenses/mit/)
